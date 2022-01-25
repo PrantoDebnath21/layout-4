@@ -1,0 +1,40 @@
+.header{
+	min-height: 100px;
+	background-color: sandybrown;
+}
+.wrapper{
+	overflow: hidden;
+}
+.contact{
+	min-height: 200px;
+	background-color: seagreen;
+	width: 30%;
+	float: left;
+}
+.blog{
+	min-height: 200px;
+	background-color: salmon;
+	width: 70%;
+	float: right;
+}
+.container{
+	overflow: hidden;
+}
+.box{
+	min-height: 200px;
+	width: 33.3%;
+	float: left;
+}
+.purple{
+	background-color: purple;
+}
+.royalblue{
+	background-color: royalblue;
+}
+.sliver{
+	background-color: sliver;
+}
+.footer{
+	min-height: 100px;
+	background-color: tan;
+}
